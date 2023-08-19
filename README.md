@@ -1,6 +1,7 @@
 # esp32-problem
 esp32 problem: MD5 of the file does not match data in flash!
 
+[![Watch the video](https://img.youtube.com/vi/w3qaa1JVWQI/0.jpg)](https://youtu.be/w3qaa1JVWQI)
 
 open cmd 
 
